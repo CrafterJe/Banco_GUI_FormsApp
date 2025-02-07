@@ -1,0 +1,85 @@
+Aviso de Privacidad Integral
+Banco UTP
+Universidad Tecnológica de Puebla
+Última actualización: 20 de noviembre de 2024
+
+La Universidad Tecnológica de Puebla (UTP), con domicilio en Antiguo Camino a La Resurrección 1002 - A, Zona Industrial, 72300 Heroica Puebla de Zaragoza, Puebla, es responsable del tratamiento de los datos personales recabados a través de la aplicación móvil y sistema digital denominado "Banco UTP", conforme a lo dispuesto en la Ley General de Protección de Datos Personales en Posesión de Sujetos Obligados (LGPDPPSO), la Ley Federal de Protección de Datos Personales en Posesión de los Particulares (LFPDPPP), y demás normatividad aplicable.
+
+1. Datos personales que serán recabados
+A través de la aplicación "Banco UTP", se recopilarán los siguientes datos personales:
+
+Nombre completo.
+Matrícula universitaria: identificador único que incluye el prefijo "UTP" seguido de 10 dígitos.
+PIN personal: clave numérica de 6 dígitos creada por el usuario para acceder a los servicios bancarios.
+La UTP no recaba datos personales sensibles, como definidos por la legislación vigente (información sobre origen racial o étnico, estado de salud, creencias religiosas, opiniones políticas, etc.).
+
+2. Finalidades del tratamiento de los datos personales
+Los datos serán utilizados para cumplir las siguientes finalidades:
+
+Finalidades principales (necesarias para el servicio):
+
+Identificar al usuario dentro del sistema bancario digital.
+Permitir el acceso y uso de los servicios ofrecidos por la aplicación "Banco UTP".
+Garantizar la seguridad y correcto funcionamiento de las cuentas bancarias gestionadas a través de la aplicación.
+Generar registros y monitorear las operaciones realizadas por los usuarios.
+Finalidades secundarias (opcionales):
+
+Analizar estadísticas de uso para la mejora del servicio.
+Comunicar actualizaciones, cambios de términos o nuevas funcionalidades de la aplicación.
+Realizar encuestas de satisfacción o análisis de la experiencia del usuario.
+Si no deseas que tus datos sean tratados para las finalidades secundarias, puedes ejercer tu derecho a oponerte conforme se detalla en el apartado 6 de este aviso.
+
+3. Fundamento legal para el tratamiento de datos personales
+El tratamiento de tus datos personales se realiza con base en:
+
+Artículos 6, 16 y 73 de la Constitución Política de los Estados Unidos Mexicanos.
+Ley General de Protección de Datos Personales en Posesión de Sujetos Obligados (LGPDPPSO): artículos 3, 16, 18, 21 y 22, entre otros aplicables.
+Ley Federal de Protección de Datos Personales en Posesión de los Particulares (LFPDPPP): en aquellos casos que sean pertinentes.
+Reglamentos internos y lineamientos universitarios: relacionados con la gestión y uso de sistemas digitales en la Universidad Tecnológica de Puebla.
+4. Transferencia de datos personales
+Tus datos personales no serán transferidos a terceros sin tu consentimiento previo, salvo en los siguientes casos previstos por la ley:
+
+Cuando sea requerido por autoridades judiciales, administrativas o de auditoría en el ejercicio de sus facultades legales.
+Cuando sea necesario para proteger los derechos o intereses legales de la UTP o de los usuarios del sistema.
+Para fines de cumplimiento de obligaciones legales aplicables a la universidad como institución pública.
+En todos los casos, la UTP asegura que las transferencias se realizarán bajo los más altos estándares de seguridad y confidencialidad.
+
+5. Medidas de seguridad y conservación de datos personales
+La UTP implementa medidas administrativas, físicas y tecnológicas para garantizar la protección de tus datos personales contra pérdida, alteración, acceso no autorizado o uso indebido. Estas medidas incluyen:
+
+Cifrado de datos: en los sistemas de almacenamiento y transferencia.
+Control de acceso: únicamente personal autorizado puede acceder a la base de datos.
+Auditorías regulares: para verificar la efectividad de las medidas de seguridad.
+Los datos personales serán conservados únicamente por el tiempo necesario para cumplir las finalidades descritas, salvo que se establezca un período mayor por disposición legal o reglamentaria.
+
+6. Derechos ARCO y revocación del consentimiento
+En todo momento, puedes ejercer tus derechos de:
+
+Acceso: conocer qué datos personales tenemos sobre ti y para qué los utilizamos.
+Rectificación: solicitar la corrección de datos incorrectos o incompletos.
+Cancelación: pedir la eliminación de tus datos personales, siempre que no exista una obligación legal para conservarlos.
+Oposición: oponerte al uso de tus datos para finalidades específicas.
+Para ejercer estos derechos, envía una solicitud al correo electrónico contacto@utpuebla.edu.mx o acude a las oficinas de la UTP en el domicilio Antiguo Camino a La Resurrección 1002 - A, Zona Industrial, 72300 Heroica Puebla de Zaragoza, Puebla.
+
+Tu solicitud debe incluir:
+
+Nombre completo y matrícula de usuario.
+Descripción clara del derecho que deseas ejercer.
+Documentos que acrediten tu identidad o representación legal.
+El plazo de respuesta es de 20 días hábiles a partir de la recepción de tu solicitud.
+
+7. Cambios en el aviso de privacidad
+Este aviso de privacidad puede ser modificado en cumplimiento con nuevas disposiciones legales, políticas internas o actualizaciones tecnológicas. Cualquier cambio será publicado a través de:
+
+El sitio web oficial de la Universidad Tecnológica de Puebla.
+La aplicación "Banco UTP".
+Comunicados enviados a los correos registrados por los usuarios.
+8. Consentimiento para el tratamiento de datos personales
+El registro y uso de la aplicación "Banco UTP" implica que otorgas tu consentimiento expreso para el tratamiento de tus datos personales conforme a los términos y condiciones establecidos en este aviso de privacidad.
+
+9. Contacto y dudas
+Si tienes preguntas o inquietudes sobre este aviso de privacidad o el manejo de tus datos personales, puedes comunicarte a través de:
+
+Correo electrónico: contacto@utpuebla.edu.mx
+Teléfono: (inserte teléfono de contacto de la universidad, si aplica).
+Domicilio: Antiguo Camino a La Resurrección 1002 - A, Zona Industrial, 72300 Heroica Puebla de Zaragoza, Puebla.

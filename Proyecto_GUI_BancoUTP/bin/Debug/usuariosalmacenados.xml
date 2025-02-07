@@ -1,0 +1,5 @@
+﻿<Usuarios>
+	<Usuario user="hola123" password="hola" />
+	<Usuario user="amigo" password="amigo" />
+	<Usuario user="user" password="password" />
+</Usuarios>

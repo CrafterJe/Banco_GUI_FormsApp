@@ -1,0 +1,151 @@
+D:\POO\Programas VS\0 Producto 2\Proyecto_GUI_BancoUTP\Proyecto_GUI_BancoUTP\bin\Debug\Proyecto_GUI_BancoUTP.exe.config
+D:\POO\Programas VS\0 Producto 2\Proyecto_GUI_BancoUTP\Proyecto_GUI_BancoUTP\bin\Debug\Proyecto_GUI_BancoUTP.exe
+D:\POO\Programas VS\0 Producto 2\Proyecto_GUI_BancoUTP\Proyecto_GUI_BancoUTP\bin\Debug\Proyecto_GUI_BancoUTP.pdb
+D:\POO\Programas VS\0 Producto 2\Proyecto_GUI_BancoUTP\Proyecto_GUI_BancoUTP\obj\Debug\Proyecto_GUI_BancoUTP.csproj.AssemblyReference.cache
+D:\POO\Programas VS\0 Producto 2\Proyecto_GUI_BancoUTP\Proyecto_GUI_BancoUTP\obj\Debug\Proyecto_GUI_BancoUTP.Form1.resources
+D:\POO\Programas VS\0 Producto 2\Proyecto_GUI_BancoUTP\Proyecto_GUI_BancoUTP\obj\Debug\Proyecto_GUI_BancoUTP.Properties.Resources.resources
+D:\POO\Programas VS\0 Producto 2\Proyecto_GUI_BancoUTP\Proyecto_GUI_BancoUTP\obj\Debug\Proyecto_GUI_BancoUTP.csproj.GenerateResource.cache
+D:\POO\Programas VS\0 Producto 2\Proyecto_GUI_BancoUTP\Proyecto_GUI_BancoUTP\obj\Debug\Proyecto_GUI_BancoUTP.csproj.CoreCompileInputs.cache
+D:\POO\Programas VS\0 Producto 2\Proyecto_GUI_BancoUTP\Proyecto_GUI_BancoUTP\obj\Debug\Proyecto_GUI_BancoUTP.exe
+D:\POO\Programas VS\0 Producto 2\Proyecto_GUI_BancoUTP\Proyecto_GUI_BancoUTP\obj\Debug\Proyecto_GUI_BancoUTP.pdb
+D:\POO\Programas VS\0 Producto 2\Proyecto_GUI_BancoUTP\Proyecto_GUI_BancoUTP\obj\Debug\Proyecto_GUI_BancoUTP.Form2.resources
+D:\POO\Programas VS\0 Producto 2\Proyecto_GUI_BancoUTP\Proyecto_GUI_BancoUTP\obj\Debug\Proyecto_GUI_BancoUTP.Form3.resources
+D:\POO\Programas VS\0 Producto 2\Proyecto_GUI_BancoUTP\Proyecto_GUI_BancoUTP\obj\Debug\Proyecto_GUI_BancoUTP.Form5.resources
+D:\POO\Programas VS\0 Producto 2\Proyecto_GUI_BancoUTP\Proyecto_GUI_BancoUTP\obj\Debug\Proyecto_GUI_BancoUTP.Form6.resources
+D:\POO\Programas VS\0 Producto 2\Proyecto_GUI_BancoUTP\Proyecto_GUI_BancoUTP\obj\Debug\Proyecto_GUI_BancoUTP.Form4.resources
+E:\POO\Programas VS\0 Producto 2\Proyecto_GUI_BancoUTP\Proyecto_GUI_BancoUTP\bin\Debug\Proyecto_GUI_BancoUTP.exe.config
+E:\POO\Programas VS\0 Producto 2\Proyecto_GUI_BancoUTP\Proyecto_GUI_BancoUTP\bin\Debug\Proyecto_GUI_BancoUTP.exe
+E:\POO\Programas VS\0 Producto 2\Proyecto_GUI_BancoUTP\Proyecto_GUI_BancoUTP\bin\Debug\Proyecto_GUI_BancoUTP.pdb
+E:\POO\Programas VS\0 Producto 2\Proyecto_GUI_BancoUTP\Proyecto_GUI_BancoUTP\obj\Debug\Proyecto_GUI_BancoUTP.Form1.resources
+E:\POO\Programas VS\0 Producto 2\Proyecto_GUI_BancoUTP\Proyecto_GUI_BancoUTP\obj\Debug\Proyecto_GUI_BancoUTP.Form2.resources
+E:\POO\Programas VS\0 Producto 2\Proyecto_GUI_BancoUTP\Proyecto_GUI_BancoUTP\obj\Debug\Proyecto_GUI_BancoUTP.Form3.resources
+E:\POO\Programas VS\0 Producto 2\Proyecto_GUI_BancoUTP\Proyecto_GUI_BancoUTP\obj\Debug\Proyecto_GUI_BancoUTP.Form4.resources
+E:\POO\Programas VS\0 Producto 2\Proyecto_GUI_BancoUTP\Proyecto_GUI_BancoUTP\obj\Debug\Proyecto_GUI_BancoUTP.Form5.resources
+E:\POO\Programas VS\0 Producto 2\Proyecto_GUI_BancoUTP\Proyecto_GUI_BancoUTP\obj\Debug\Proyecto_GUI_BancoUTP.Form6.resources
+E:\POO\Programas VS\0 Producto 2\Proyecto_GUI_BancoUTP\Proyecto_GUI_BancoUTP\obj\Debug\Proyecto_GUI_BancoUTP.Properties.Resources.resources
+E:\POO\Programas VS\0 Producto 2\Proyecto_GUI_BancoUTP\Proyecto_GUI_BancoUTP\obj\Debug\Proyecto_GUI_BancoUTP.csproj.GenerateResource.cache
+E:\POO\Programas VS\0 Producto 2\Proyecto_GUI_BancoUTP\Proyecto_GUI_BancoUTP\obj\Debug\Proyecto_GUI_BancoUTP.csproj.CoreCompileInputs.cache
+E:\POO\Programas VS\0 Producto 2\Proyecto_GUI_BancoUTP\Proyecto_GUI_BancoUTP\obj\Debug\Proyecto_GUI_BancoUTP.exe
+E:\POO\Programas VS\0 Producto 2\Proyecto_GUI_BancoUTP\Proyecto_GUI_BancoUTP\obj\Debug\Proyecto_GUI_BancoUTP.pdb
+D:\POO\Programas VS\0 Producto 2\Proyecto_GUI_BancoUTP\Proyecto_GUI_BancoUTP\obj\Debug\Proyecto_GUI_BancoUTP.csproj.SuggestedBindingRedirects.cache
+E:\POO\Programas VS\0 Producto 2\Proyecto_GUI_BancoUTP\Proyecto_GUI_BancoUTP\obj\Debug\Proyecto_GUI_BancoUTP.csprojAssemblyReference.cache
+D:\POO\Programas VS\0 Producto 2\Proyecto_GUI_BancoUTP\Proyecto_GUI_BancoUTP\obj\Debug\Proyecto_GUI_BancoUTP.Form7.resources
+D:\2B\POO\Programas VS\0 Producto 2\Proyecto_GUI_BancoUTP\Proyecto_GUI_BancoUTP\bin\Debug\Proyecto_GUI_BancoUTP.exe.config
+D:\2B\POO\Programas VS\0 Producto 2\Proyecto_GUI_BancoUTP\Proyecto_GUI_BancoUTP\bin\Debug\Proyecto_GUI_BancoUTP.exe
+D:\2B\POO\Programas VS\0 Producto 2\Proyecto_GUI_BancoUTP\Proyecto_GUI_BancoUTP\bin\Debug\Proyecto_GUI_BancoUTP.pdb
+D:\2B\POO\Programas VS\0 Producto 2\Proyecto_GUI_BancoUTP\Proyecto_GUI_BancoUTP\obj\Debug\Proyecto_GUI_BancoUTP.csproj.AssemblyReference.cache
+D:\2B\POO\Programas VS\0 Producto 2\Proyecto_GUI_BancoUTP\Proyecto_GUI_BancoUTP\obj\Debug\Proyecto_GUI_BancoUTP.csproj.SuggestedBindingRedirects.cache
+D:\2B\POO\Programas VS\0 Producto 2\Proyecto_GUI_BancoUTP\Proyecto_GUI_BancoUTP\obj\Debug\Proyecto_GUI_BancoUTP.Form1.resources
+D:\2B\POO\Programas VS\0 Producto 2\Proyecto_GUI_BancoUTP\Proyecto_GUI_BancoUTP\obj\Debug\Proyecto_GUI_BancoUTP.Form2.resources
+D:\2B\POO\Programas VS\0 Producto 2\Proyecto_GUI_BancoUTP\Proyecto_GUI_BancoUTP\obj\Debug\Proyecto_GUI_BancoUTP.Form3.resources
+D:\2B\POO\Programas VS\0 Producto 2\Proyecto_GUI_BancoUTP\Proyecto_GUI_BancoUTP\obj\Debug\Proyecto_GUI_BancoUTP.Form4.resources
+D:\2B\POO\Programas VS\0 Producto 2\Proyecto_GUI_BancoUTP\Proyecto_GUI_BancoUTP\obj\Debug\Proyecto_GUI_BancoUTP.Form5.resources
+D:\2B\POO\Programas VS\0 Producto 2\Proyecto_GUI_BancoUTP\Proyecto_GUI_BancoUTP\obj\Debug\Proyecto_GUI_BancoUTP.Form6.resources
+D:\2B\POO\Programas VS\0 Producto 2\Proyecto_GUI_BancoUTP\Proyecto_GUI_BancoUTP\obj\Debug\Proyecto_GUI_BancoUTP.Form7.resources
+D:\2B\POO\Programas VS\0 Producto 2\Proyecto_GUI_BancoUTP\Proyecto_GUI_BancoUTP\obj\Debug\Proyecto_GUI_BancoUTP.Properties.Resources.resources
+D:\2B\POO\Programas VS\0 Producto 2\Proyecto_GUI_BancoUTP\Proyecto_GUI_BancoUTP\obj\Debug\Proyecto_GUI_BancoUTP.csproj.GenerateResource.cache
+D:\2B\POO\Programas VS\0 Producto 2\Proyecto_GUI_BancoUTP\Proyecto_GUI_BancoUTP\obj\Debug\Proyecto_GUI_BancoUTP.csproj.CoreCompileInputs.cache
+D:\2B\POO\Programas VS\0 Producto 2\Proyecto_GUI_BancoUTP\Proyecto_GUI_BancoUTP\obj\Debug\Proyecto_GUI_BancoUTP.exe
+D:\2B\POO\Programas VS\0 Producto 2\Proyecto_GUI_BancoUTP\Proyecto_GUI_BancoUTP\obj\Debug\Proyecto_GUI_BancoUTP.pdb
+C:\Users\CrafterJe\Documents\Visual Studio 2022\Banco_UTP\Proyecto_GUI_BancoUTP\Proyecto_GUI_BancoUTP\bin\Debug\Proyecto_GUI_BancoUTP.exe.config
+C:\Users\CrafterJe\Documents\Visual Studio 2022\Banco_UTP\Proyecto_GUI_BancoUTP\Proyecto_GUI_BancoUTP\bin\Debug\Proyecto_GUI_BancoUTP.exe
+C:\Users\CrafterJe\Documents\Visual Studio 2022\Banco_UTP\Proyecto_GUI_BancoUTP\Proyecto_GUI_BancoUTP\bin\Debug\Proyecto_GUI_BancoUTP.pdb
+C:\Users\CrafterJe\Documents\Visual Studio 2022\Banco_UTP\Proyecto_GUI_BancoUTP\Proyecto_GUI_BancoUTP\obj\Debug\Proyecto_GUI_BancoUTP.csproj.AssemblyReference.cache
+C:\Users\CrafterJe\Documents\Visual Studio 2022\Banco_UTP\Proyecto_GUI_BancoUTP\Proyecto_GUI_BancoUTP\obj\Debug\Proyecto_GUI_BancoUTP.Form1.resources
+C:\Users\CrafterJe\Documents\Visual Studio 2022\Banco_UTP\Proyecto_GUI_BancoUTP\Proyecto_GUI_BancoUTP\obj\Debug\Proyecto_GUI_BancoUTP.Form2.resources
+C:\Users\CrafterJe\Documents\Visual Studio 2022\Banco_UTP\Proyecto_GUI_BancoUTP\Proyecto_GUI_BancoUTP\obj\Debug\Proyecto_GUI_BancoUTP.Form3.resources
+C:\Users\CrafterJe\Documents\Visual Studio 2022\Banco_UTP\Proyecto_GUI_BancoUTP\Proyecto_GUI_BancoUTP\obj\Debug\Proyecto_GUI_BancoUTP.Form4.resources
+C:\Users\CrafterJe\Documents\Visual Studio 2022\Banco_UTP\Proyecto_GUI_BancoUTP\Proyecto_GUI_BancoUTP\obj\Debug\Proyecto_GUI_BancoUTP.Form5.resources
+C:\Users\CrafterJe\Documents\Visual Studio 2022\Banco_UTP\Proyecto_GUI_BancoUTP\Proyecto_GUI_BancoUTP\obj\Debug\Proyecto_GUI_BancoUTP.Form6.resources
+C:\Users\CrafterJe\Documents\Visual Studio 2022\Banco_UTP\Proyecto_GUI_BancoUTP\Proyecto_GUI_BancoUTP\obj\Debug\Proyecto_GUI_BancoUTP.Form7.resources
+C:\Users\CrafterJe\Documents\Visual Studio 2022\Banco_UTP\Proyecto_GUI_BancoUTP\Proyecto_GUI_BancoUTP\obj\Debug\Proyecto_GUI_BancoUTP.Properties.Resources.resources
+C:\Users\CrafterJe\Documents\Visual Studio 2022\Banco_UTP\Proyecto_GUI_BancoUTP\Proyecto_GUI_BancoUTP\obj\Debug\Proyecto_GUI_BancoUTP.csproj.GenerateResource.cache
+C:\Users\CrafterJe\Documents\Visual Studio 2022\Banco_UTP\Proyecto_GUI_BancoUTP\Proyecto_GUI_BancoUTP\obj\Debug\Proyecto_GUI_BancoUTP.csproj.CoreCompileInputs.cache
+C:\Users\CrafterJe\Documents\Visual Studio 2022\Banco_UTP\Proyecto_GUI_BancoUTP\Proyecto_GUI_BancoUTP\obj\Debug\Proyecto_GUI_BancoUTP.exe
+C:\Users\CrafterJe\Documents\Visual Studio 2022\Banco_UTP\Proyecto_GUI_BancoUTP\Proyecto_GUI_BancoUTP\obj\Debug\Proyecto_GUI_BancoUTP.pdb
+C:\Users\CrafterJe\Documents\Visual Studio 2022\Banco_UTP\Proyecto_GUI_BancoUTP\Proyecto_GUI_BancoUTP\obj\Debug\Proyecto_GUI_BancoUTP.Form8.resources
+C:\Users\CrafterJe\Documents\Visual Studio 2022\Banco_UTP\Proyecto_GUI_BancoUTP\Proyecto_GUI_BancoUTP\bin\Debug\BouncyCastle.Cryptography.dll
+C:\Users\CrafterJe\Documents\Visual Studio 2022\Banco_UTP\Proyecto_GUI_BancoUTP\Proyecto_GUI_BancoUTP\bin\Debug\Google.Protobuf.dll
+C:\Users\CrafterJe\Documents\Visual Studio 2022\Banco_UTP\Proyecto_GUI_BancoUTP\Proyecto_GUI_BancoUTP\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\CrafterJe\Documents\Visual Studio 2022\Banco_UTP\Proyecto_GUI_BancoUTP\Proyecto_GUI_BancoUTP\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\CrafterJe\Documents\Visual Studio 2022\Banco_UTP\Proyecto_GUI_BancoUTP\Proyecto_GUI_BancoUTP\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\CrafterJe\Documents\Visual Studio 2022\Banco_UTP\Proyecto_GUI_BancoUTP\Proyecto_GUI_BancoUTP\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\CrafterJe\Documents\Visual Studio 2022\Banco_UTP\Proyecto_GUI_BancoUTP\Proyecto_GUI_BancoUTP\bin\Debug\MySql.Data.dll
+C:\Users\CrafterJe\Documents\Visual Studio 2022\Banco_UTP\Proyecto_GUI_BancoUTP\Proyecto_GUI_BancoUTP\bin\Debug\System.Buffers.dll
+C:\Users\CrafterJe\Documents\Visual Studio 2022\Banco_UTP\Proyecto_GUI_BancoUTP\Proyecto_GUI_BancoUTP\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\CrafterJe\Documents\Visual Studio 2022\Banco_UTP\Proyecto_GUI_BancoUTP\Proyecto_GUI_BancoUTP\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\CrafterJe\Documents\Visual Studio 2022\Banco_UTP\Proyecto_GUI_BancoUTP\Proyecto_GUI_BancoUTP\bin\Debug\System.IO.Pipelines.dll
+C:\Users\CrafterJe\Documents\Visual Studio 2022\Banco_UTP\Proyecto_GUI_BancoUTP\Proyecto_GUI_BancoUTP\bin\Debug\System.Memory.dll
+C:\Users\CrafterJe\Documents\Visual Studio 2022\Banco_UTP\Proyecto_GUI_BancoUTP\Proyecto_GUI_BancoUTP\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\CrafterJe\Documents\Visual Studio 2022\Banco_UTP\Proyecto_GUI_BancoUTP\Proyecto_GUI_BancoUTP\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\CrafterJe\Documents\Visual Studio 2022\Banco_UTP\Proyecto_GUI_BancoUTP\Proyecto_GUI_BancoUTP\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\CrafterJe\Documents\Visual Studio 2022\Banco_UTP\Proyecto_GUI_BancoUTP\Proyecto_GUI_BancoUTP\bin\Debug\ZstdSharp.dll
+C:\Users\CrafterJe\Documents\Visual Studio 2022\Banco_UTP\Proyecto_GUI_BancoUTP\Proyecto_GUI_BancoUTP\bin\Debug\BouncyCastle.Cryptography.xml
+C:\Users\CrafterJe\Documents\Visual Studio 2022\Banco_UTP\Proyecto_GUI_BancoUTP\Proyecto_GUI_BancoUTP\bin\Debug\Google.Protobuf.pdb
+C:\Users\CrafterJe\Documents\Visual Studio 2022\Banco_UTP\Proyecto_GUI_BancoUTP\Proyecto_GUI_BancoUTP\bin\Debug\Google.Protobuf.xml
+C:\Users\CrafterJe\Documents\Visual Studio 2022\Banco_UTP\Proyecto_GUI_BancoUTP\Proyecto_GUI_BancoUTP\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\CrafterJe\Documents\Visual Studio 2022\Banco_UTP\Proyecto_GUI_BancoUTP\Proyecto_GUI_BancoUTP\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\CrafterJe\Documents\Visual Studio 2022\Banco_UTP\Proyecto_GUI_BancoUTP\Proyecto_GUI_BancoUTP\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\CrafterJe\Documents\Visual Studio 2022\Banco_UTP\Proyecto_GUI_BancoUTP\Proyecto_GUI_BancoUTP\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\CrafterJe\Documents\Visual Studio 2022\Banco_UTP\Proyecto_GUI_BancoUTP\Proyecto_GUI_BancoUTP\bin\Debug\MySql.Data.xml
+C:\Users\CrafterJe\Documents\Visual Studio 2022\Banco_UTP\Proyecto_GUI_BancoUTP\Proyecto_GUI_BancoUTP\bin\Debug\System.Buffers.xml
+C:\Users\CrafterJe\Documents\Visual Studio 2022\Banco_UTP\Proyecto_GUI_BancoUTP\Proyecto_GUI_BancoUTP\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Users\CrafterJe\Documents\Visual Studio 2022\Banco_UTP\Proyecto_GUI_BancoUTP\Proyecto_GUI_BancoUTP\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\CrafterJe\Documents\Visual Studio 2022\Banco_UTP\Proyecto_GUI_BancoUTP\Proyecto_GUI_BancoUTP\bin\Debug\System.IO.Pipelines.xml
+C:\Users\CrafterJe\Documents\Visual Studio 2022\Banco_UTP\Proyecto_GUI_BancoUTP\Proyecto_GUI_BancoUTP\bin\Debug\System.Memory.xml
+C:\Users\CrafterJe\Documents\Visual Studio 2022\Banco_UTP\Proyecto_GUI_BancoUTP\Proyecto_GUI_BancoUTP\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\CrafterJe\Documents\Visual Studio 2022\Banco_UTP\Proyecto_GUI_BancoUTP\Proyecto_GUI_BancoUTP\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\CrafterJe\Documents\Visual Studio 2022\Banco_UTP\Proyecto_GUI_BancoUTP\Proyecto_GUI_BancoUTP\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\CrafterJe\Documents\Visual Studio 2022\Banco_UTP\Proyecto_GUI_BancoUTP\Proyecto_GUI_BancoUTP\obj\Debug\Proyecto.67869E8D.Up2Date
+C:\Users\CrafterJe\Documents\Visual Studio 2022\Banco_UTP\Proyecto_GUI_BancoUTP\Proyecto_GUI_BancoUTP\obj\Debug\Proyecto_GUI_BancoUTP.Form9.resources
+C:\Users\rauli\OneDrive\Escritorio\UNI\Seguridad y Desarrollo SW\Proyecto_GUI_BancoUTP\Proyecto_GUI_BancoUTP\bin\Debug\Proyecto_GUI_BancoUTP.exe.config
+C:\Users\rauli\OneDrive\Escritorio\UNI\Seguridad y Desarrollo SW\Proyecto_GUI_BancoUTP\Proyecto_GUI_BancoUTP\bin\Debug\Proyecto_GUI_BancoUTP.exe
+C:\Users\rauli\OneDrive\Escritorio\UNI\Seguridad y Desarrollo SW\Proyecto_GUI_BancoUTP\Proyecto_GUI_BancoUTP\bin\Debug\Proyecto_GUI_BancoUTP.pdb
+C:\Users\rauli\OneDrive\Escritorio\UNI\Seguridad y Desarrollo SW\Proyecto_GUI_BancoUTP\Proyecto_GUI_BancoUTP\bin\Debug\BouncyCastle.Cryptography.dll
+C:\Users\rauli\OneDrive\Escritorio\UNI\Seguridad y Desarrollo SW\Proyecto_GUI_BancoUTP\Proyecto_GUI_BancoUTP\bin\Debug\Google.Protobuf.dll
+C:\Users\rauli\OneDrive\Escritorio\UNI\Seguridad y Desarrollo SW\Proyecto_GUI_BancoUTP\Proyecto_GUI_BancoUTP\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\rauli\OneDrive\Escritorio\UNI\Seguridad y Desarrollo SW\Proyecto_GUI_BancoUTP\Proyecto_GUI_BancoUTP\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\rauli\OneDrive\Escritorio\UNI\Seguridad y Desarrollo SW\Proyecto_GUI_BancoUTP\Proyecto_GUI_BancoUTP\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\rauli\OneDrive\Escritorio\UNI\Seguridad y Desarrollo SW\Proyecto_GUI_BancoUTP\Proyecto_GUI_BancoUTP\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\rauli\OneDrive\Escritorio\UNI\Seguridad y Desarrollo SW\Proyecto_GUI_BancoUTP\Proyecto_GUI_BancoUTP\bin\Debug\MySql.Data.dll
+C:\Users\rauli\OneDrive\Escritorio\UNI\Seguridad y Desarrollo SW\Proyecto_GUI_BancoUTP\Proyecto_GUI_BancoUTP\bin\Debug\System.Buffers.dll
+C:\Users\rauli\OneDrive\Escritorio\UNI\Seguridad y Desarrollo SW\Proyecto_GUI_BancoUTP\Proyecto_GUI_BancoUTP\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\rauli\OneDrive\Escritorio\UNI\Seguridad y Desarrollo SW\Proyecto_GUI_BancoUTP\Proyecto_GUI_BancoUTP\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\rauli\OneDrive\Escritorio\UNI\Seguridad y Desarrollo SW\Proyecto_GUI_BancoUTP\Proyecto_GUI_BancoUTP\bin\Debug\System.IO.Pipelines.dll
+C:\Users\rauli\OneDrive\Escritorio\UNI\Seguridad y Desarrollo SW\Proyecto_GUI_BancoUTP\Proyecto_GUI_BancoUTP\bin\Debug\System.Memory.dll
+C:\Users\rauli\OneDrive\Escritorio\UNI\Seguridad y Desarrollo SW\Proyecto_GUI_BancoUTP\Proyecto_GUI_BancoUTP\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\rauli\OneDrive\Escritorio\UNI\Seguridad y Desarrollo SW\Proyecto_GUI_BancoUTP\Proyecto_GUI_BancoUTP\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\rauli\OneDrive\Escritorio\UNI\Seguridad y Desarrollo SW\Proyecto_GUI_BancoUTP\Proyecto_GUI_BancoUTP\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\rauli\OneDrive\Escritorio\UNI\Seguridad y Desarrollo SW\Proyecto_GUI_BancoUTP\Proyecto_GUI_BancoUTP\bin\Debug\ZstdSharp.dll
+C:\Users\rauli\OneDrive\Escritorio\UNI\Seguridad y Desarrollo SW\Proyecto_GUI_BancoUTP\Proyecto_GUI_BancoUTP\bin\Debug\BouncyCastle.Cryptography.xml
+C:\Users\rauli\OneDrive\Escritorio\UNI\Seguridad y Desarrollo SW\Proyecto_GUI_BancoUTP\Proyecto_GUI_BancoUTP\bin\Debug\Google.Protobuf.pdb
+C:\Users\rauli\OneDrive\Escritorio\UNI\Seguridad y Desarrollo SW\Proyecto_GUI_BancoUTP\Proyecto_GUI_BancoUTP\bin\Debug\Google.Protobuf.xml
+C:\Users\rauli\OneDrive\Escritorio\UNI\Seguridad y Desarrollo SW\Proyecto_GUI_BancoUTP\Proyecto_GUI_BancoUTP\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\rauli\OneDrive\Escritorio\UNI\Seguridad y Desarrollo SW\Proyecto_GUI_BancoUTP\Proyecto_GUI_BancoUTP\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\rauli\OneDrive\Escritorio\UNI\Seguridad y Desarrollo SW\Proyecto_GUI_BancoUTP\Proyecto_GUI_BancoUTP\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\rauli\OneDrive\Escritorio\UNI\Seguridad y Desarrollo SW\Proyecto_GUI_BancoUTP\Proyecto_GUI_BancoUTP\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\rauli\OneDrive\Escritorio\UNI\Seguridad y Desarrollo SW\Proyecto_GUI_BancoUTP\Proyecto_GUI_BancoUTP\bin\Debug\MySql.Data.xml
+C:\Users\rauli\OneDrive\Escritorio\UNI\Seguridad y Desarrollo SW\Proyecto_GUI_BancoUTP\Proyecto_GUI_BancoUTP\bin\Debug\System.Buffers.xml
+C:\Users\rauli\OneDrive\Escritorio\UNI\Seguridad y Desarrollo SW\Proyecto_GUI_BancoUTP\Proyecto_GUI_BancoUTP\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Users\rauli\OneDrive\Escritorio\UNI\Seguridad y Desarrollo SW\Proyecto_GUI_BancoUTP\Proyecto_GUI_BancoUTP\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\rauli\OneDrive\Escritorio\UNI\Seguridad y Desarrollo SW\Proyecto_GUI_BancoUTP\Proyecto_GUI_BancoUTP\bin\Debug\System.IO.Pipelines.xml
+C:\Users\rauli\OneDrive\Escritorio\UNI\Seguridad y Desarrollo SW\Proyecto_GUI_BancoUTP\Proyecto_GUI_BancoUTP\bin\Debug\System.Memory.xml
+C:\Users\rauli\OneDrive\Escritorio\UNI\Seguridad y Desarrollo SW\Proyecto_GUI_BancoUTP\Proyecto_GUI_BancoUTP\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\rauli\OneDrive\Escritorio\UNI\Seguridad y Desarrollo SW\Proyecto_GUI_BancoUTP\Proyecto_GUI_BancoUTP\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\rauli\OneDrive\Escritorio\UNI\Seguridad y Desarrollo SW\Proyecto_GUI_BancoUTP\Proyecto_GUI_BancoUTP\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\rauli\OneDrive\Escritorio\UNI\Seguridad y Desarrollo SW\Proyecto_GUI_BancoUTP\Proyecto_GUI_BancoUTP\obj\Debug\Proyecto_GUI_BancoUTP.csproj.AssemblyReference.cache
+C:\Users\rauli\OneDrive\Escritorio\UNI\Seguridad y Desarrollo SW\Proyecto_GUI_BancoUTP\Proyecto_GUI_BancoUTP\obj\Debug\Proyecto_GUI_BancoUTP.Form1.resources
+C:\Users\rauli\OneDrive\Escritorio\UNI\Seguridad y Desarrollo SW\Proyecto_GUI_BancoUTP\Proyecto_GUI_BancoUTP\obj\Debug\Proyecto_GUI_BancoUTP.Form2.resources
+C:\Users\rauli\OneDrive\Escritorio\UNI\Seguridad y Desarrollo SW\Proyecto_GUI_BancoUTP\Proyecto_GUI_BancoUTP\obj\Debug\Proyecto_GUI_BancoUTP.Form3.resources
+C:\Users\rauli\OneDrive\Escritorio\UNI\Seguridad y Desarrollo SW\Proyecto_GUI_BancoUTP\Proyecto_GUI_BancoUTP\obj\Debug\Proyecto_GUI_BancoUTP.Form4.resources
+C:\Users\rauli\OneDrive\Escritorio\UNI\Seguridad y Desarrollo SW\Proyecto_GUI_BancoUTP\Proyecto_GUI_BancoUTP\obj\Debug\Proyecto_GUI_BancoUTP.Form5.resources
+C:\Users\rauli\OneDrive\Escritorio\UNI\Seguridad y Desarrollo SW\Proyecto_GUI_BancoUTP\Proyecto_GUI_BancoUTP\obj\Debug\Proyecto_GUI_BancoUTP.Form6.resources
+C:\Users\rauli\OneDrive\Escritorio\UNI\Seguridad y Desarrollo SW\Proyecto_GUI_BancoUTP\Proyecto_GUI_BancoUTP\obj\Debug\Proyecto_GUI_BancoUTP.Form7.resources
+C:\Users\rauli\OneDrive\Escritorio\UNI\Seguridad y Desarrollo SW\Proyecto_GUI_BancoUTP\Proyecto_GUI_BancoUTP\obj\Debug\Proyecto_GUI_BancoUTP.Form8.resources
+C:\Users\rauli\OneDrive\Escritorio\UNI\Seguridad y Desarrollo SW\Proyecto_GUI_BancoUTP\Proyecto_GUI_BancoUTP\obj\Debug\Proyecto_GUI_BancoUTP.Form9.resources
+C:\Users\rauli\OneDrive\Escritorio\UNI\Seguridad y Desarrollo SW\Proyecto_GUI_BancoUTP\Proyecto_GUI_BancoUTP\obj\Debug\Proyecto_GUI_BancoUTP.Properties.Resources.resources
+C:\Users\rauli\OneDrive\Escritorio\UNI\Seguridad y Desarrollo SW\Proyecto_GUI_BancoUTP\Proyecto_GUI_BancoUTP\obj\Debug\Proyecto_GUI_BancoUTP.csproj.GenerateResource.cache
+C:\Users\rauli\OneDrive\Escritorio\UNI\Seguridad y Desarrollo SW\Proyecto_GUI_BancoUTP\Proyecto_GUI_BancoUTP\obj\Debug\Proyecto_GUI_BancoUTP.csproj.CoreCompileInputs.cache
+C:\Users\rauli\OneDrive\Escritorio\UNI\Seguridad y Desarrollo SW\Proyecto_GUI_BancoUTP\Proyecto_GUI_BancoUTP\obj\Debug\Proyecto.67869E8D.Up2Date
+C:\Users\rauli\OneDrive\Escritorio\UNI\Seguridad y Desarrollo SW\Proyecto_GUI_BancoUTP\Proyecto_GUI_BancoUTP\obj\Debug\Proyecto_GUI_BancoUTP.exe
+C:\Users\rauli\OneDrive\Escritorio\UNI\Seguridad y Desarrollo SW\Proyecto_GUI_BancoUTP\Proyecto_GUI_BancoUTP\obj\Debug\Proyecto_GUI_BancoUTP.pdb
